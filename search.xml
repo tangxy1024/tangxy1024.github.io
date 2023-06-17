@@ -28,6 +28,25 @@
     </entry>
     
     
+    
+    <entry>
+      <title>test-category</title>
+      <link href="//test-category"/>
+      <url>//test-category</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo config </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
   
   
 </search>
